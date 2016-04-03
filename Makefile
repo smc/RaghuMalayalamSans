@@ -5,7 +5,7 @@ fonts=RaghuMalayalamSans-Regular
 feature=features/features.fea
 PY=python2.7
 buildscript=tools/build.py
-version=1.2
+version=2.1.1
 default: compile
 all: compile
 
