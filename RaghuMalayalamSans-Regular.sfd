@@ -3,7 +3,7 @@ FontName: RaghuMalayalamSans-Regular
 FullName: RaghuMalayalam Regular
 FamilyName: RaghuMalayalam
 Weight: Regular
-Copyright: Digitized data copyright (c) 2005 Centre for Development of Advanced Computing, Mumbai, 2008-2014 Suresh, P , Swathanthra Malayalam Computing  \n\nFont Design: Prof.R.K.Joshi and Rajith Kumar K.M., assisted by Nirmal Biswas, Jui Mhatre and Supriya Kharkar.
+Copyright: Digitized data copyright (c) 2005 Centre for Development of Advanced Computing, Mumbai, 2008-2014 Suresh, P , Swathanthra Malayalam Computing. Font Design: Prof.R.K.Joshi and Rajith Kumar K.M., assisted by Nirmal Biswas, Jui Mhatre and Supriya Kharkar.
 Version: 2.1.1
 ItalicAngle: 0
 UnderlinePosition: -290
@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1136575263
-ModificationTime: 1496933491
+ModificationTime: 1496933707
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
