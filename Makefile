@@ -4,11 +4,11 @@ fontpath=/usr/share/fonts/truetype/malayalam
 fonts=RaghuMalayalamSans-Regular
 features=features
 PY=python2.7
-version=1.1
+version=2.1.1
 buildscript=tools/build.py
-default: ttf
+default: compile
 all: compile webfonts test
-compile: ttf
+compile: ttf webfonts
 
 ttf:
 	@for font in `echo ${fonts}`;do \
