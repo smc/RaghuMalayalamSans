@@ -1,6 +1,3 @@
-languagesystem mlm2 dflt;
-languagesystem mlym dflt;
-
 include (tables.fea)
 include (lookups.fea)
 
@@ -86,5 +83,3 @@ feature psts {
      language dflt ;
       lookup pstsPostBaseSubstitutionsinMalaylamlookup8;
 } psts;
-
-
