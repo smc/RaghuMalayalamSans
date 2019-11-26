@@ -3,7 +3,7 @@
 fontpath=/usr/share/fonts/truetype/malayalam
 fonts=RaghuMalayalamSans-Regular
 features=features
-PY=python2.7
+PY=python3
 version=2.2.0
 buildscript=tools/build.py
 outdir=build
