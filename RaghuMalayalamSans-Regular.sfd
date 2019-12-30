@@ -4,7 +4,7 @@ FullName: RaghuMalayalamSans Regular
 FamilyName: RaghuMalayalamSans
 Weight: Regular
 Copyright: Digitized data copyright (c) 2005 Centre for Development of Advanced Computing, Mumbai, 2008-2014 Suresh, P , Swathanthra Malayalam Computing. Font Design: Prof.R.K.Joshi and Rajith Kumar K.M., assisted by Nirmal Biswas, Jui Mhatre and Supriya Kharkar.
-Version: 2.2.0
+Version: 2.2
 ItalicAngle: 0
 UnderlinePosition: -290
 UnderlineWidth: 116
@@ -285,7 +285,7 @@ ShortTable: maxp 16
   3
   2
 EndShort
-LangName: 1033 "" "" "" "" "" "2.0.1" "" "RaghuMalayalam - Trademark of Centre for Development of Advanced Computing (C-DAC) Mumbai (formerly NCST). " "Centre for Development of Advanced Computing (C-DAC) Mumbai, (formerly NCST), Swathanthra Malayalam Computing (http://smc.org.in)" "Prof. R.K.Joshi and Rajith Kumar K. M." "" "http://smc.org.in" "http://staff.cdacmumbai.in/rkjoshi" "GNU GPL License, Version 2.0.+AAoA" "http://www.gnu.org/licenses/gpl-2.0.html"
+LangName: 1033 "" "" "" "" "" "2.2" "" "RaghuMalayalam - Trademark of Centre for Development of Advanced Computing (C-DAC) Mumbai (formerly NCST). " "Centre for Development of Advanced Computing (C-DAC) Mumbai, (formerly NCST), Swathanthra Malayalam Computing (http://smc.org.in)" "Prof. R.K.Joshi and Rajith Kumar K. M." "" "http://smc.org.in" "http://staff.cdacmumbai.in/rkjoshi" "GNU GPL License, Version 2.0.+AAoA" "http://www.gnu.org/licenses/gpl-2.0.html"
 GaspTable: 1 65535 2 0
 Encoding: Custom
 UnicodeInterp: none
